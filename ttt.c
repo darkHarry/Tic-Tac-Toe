@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+
+/*sup Harry, basically I'm learning the logistics of github so I used your code, first I thought about converting it to java, cuz you know, you hate it so much,
+but then I was like, meh, just type in a randomn comment to check. */
+
 struct Move
 {
   int score, choice;
